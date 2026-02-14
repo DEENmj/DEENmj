@@ -7,7 +7,7 @@
 <h1 align="center"> Hi 👋🏻, I'm Deen Mohamed </h1>
 
 <p align="center">
-💻 HND Software Engineering Student <br>
+💻 BEng(Hons) Software Engineering Student <br>
 🚀 Full Stack Developer <br>
 🛠️ System Builder & Problem Solver <br>
 🏍️ Bike Lover | Tech Explorer
@@ -17,21 +17,27 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 Currently studying **BEng(Hons) Software Engineering**
-- 💻 Passionate about **Web Development & Software Systems**
-- 🛠️ Building real-world applications using modern technologies
-- 📚 Improving my **DSA & Clean Code practices**
-- ⚡ Fun fact: I build systems by day & ride my NS 200 by evening 🏍️
+- 🎓 Software Engineering
+- 💻 Building full-stack web applications
+- 🛠️ Developing desktop systems using C#
+- 📚 Improving Data Structures & Clean Code practices
+- ⚡ I build, Test and make changes
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/deen-mj-deen-0786352b7/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:yourmail@gmail.com">
+<a href="https://web.facebook.com/deenmj.deen/" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
+</a>
+<a href="https://www.instagram.com/mr_deen_434/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+<a href="mailto:deenmj3149@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -40,18 +46,21 @@
 
 ### 🛠️ Languages & Tools
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/csharp-%239933CC.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/sql%20server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -66,7 +75,7 @@
 
 ### 🔥 Current Focus
 
-- Building complete full-stack systems
+- Building scalable full-stack applications
 - Strengthening Data Structures & Algorithms
-- Writing clean, maintainable code
-- Learning advanced software architecture
+- Writing clean, maintainable software
+- Improving backend architecture skills
