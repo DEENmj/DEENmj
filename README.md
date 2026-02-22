@@ -25,6 +25,12 @@
 
 ---
 
+### 🔥 Current Focus
+
+- Building scalable full-stack applications
+- Strengthening Data Structures & Algorithms
+- Writing clean, maintainable software
+- Improving backend architecture skills
 ### 🌐 Connect With Me
 
 <p align="left">
@@ -86,9 +92,4 @@
 
 
 ---
-### 🔥 Current Focus
 
-- Building scalable full-stack applications
-- Strengthening Data Structures & Algorithms
-- Writing clean, maintainable software
-- Improving backend architecture skills
