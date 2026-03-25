@@ -103,10 +103,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DEENmj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEENmj&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 📈 Activity Graph
+
+[![Deen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DEENmj&theme=tokyo-night&hide_border=true)](https://github.com/DEENmj)
 
 <p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DEENmj&theme=tokyonight&hide_border=true" />
